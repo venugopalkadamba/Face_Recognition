@@ -1,4 +1,4 @@
-# Face_Recognition
+# Face Recognition
 
 ## USAGE OF FACE RECOGNITION
 There are many real time applications of face recognition, The below mentioned are few of them: 
